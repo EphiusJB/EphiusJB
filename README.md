@@ -5,9 +5,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Zambia Information Technology College.
-- 💼 &nbsp; Working as a Front-end developer at Stephy Foundations.
-- 🌱 &nbsp; Learning more about Cloud Architecture,Full-stack Development and Mobile Application development.
+- 🎓 &nbsp; Studying software Engineering at Zambia Information Technology College.
+- 💼 &nbsp; Worked as a Front-end developer at Stephy Foundations.
+- 🌱 &nbsp; Learning more about Computer Networking,Full-stack Development and Mobile Application development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -30,8 +30,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
 
 <br/>
 
